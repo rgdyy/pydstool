@@ -8,6 +8,7 @@
 
 
 from .misc import *
+from PyDSTool.errors import *
 from PyDSTool.common import args
 from .TestFunc import DiscreteMap, FixedPointMap
 
